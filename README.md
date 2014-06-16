@@ -15,8 +15,10 @@
 ![printer] (alphabet/printer.png)
 
 
-# Стили 
+# [Стили](stylus)
 ## #css, #stylus
+
+[yandex+stylus](http://habrahabr.ru/company/yandex/blog/169415/)
 
 # Изображения 
 ## #splashscreen, #icon, #favicon
