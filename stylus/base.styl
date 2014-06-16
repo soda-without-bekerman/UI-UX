@@ -1,0 +1,183 @@
+@import "nib"
+
+transform-translate()
+  transform                  translate( arguments )
+  -webkit-transform          translate( arguments )
+  -moz-transform             translate( arguments )
+  -o-transform               translate( arguments )
+
+transform-origin()
+  transform-origin         arguments
+  -webkit-transform-origin arguments
+  -moz-transform-origin    arguments
+  -o-transform-origin      arguments
+
+
+transform()
+  transform                  arguments
+  -webkit-transform          arguments
+  -moz-transform             arguments
+  -o-transform               arguments
+
+
+transition()
+  transition                 arguments
+  -webkit-transition         arguments
+  -moz-transition            arguments
+  -o-transition              arguments
+
+animation()
+  animation                  arguments
+  -webkit-animation          arguments
+  -moz-animation             arguments
+  -o-animation               arguments
+
+
+perspective()
+  -webkit-perspective       arguments
+  -moz-perspective          arguments
+  -ms-perspective           arguments
+  -o-perspective            arguments
+  perspective               arguments
+
+perspective-origin()
+  -webkit-perspective-origin    arguments
+  -moz-perspective-origin       arguments
+  -ms-perspective-origin        arguments
+  -o-perspective-origin         arguments
+  perspective-origin            arguments
+
+preserve3d()
+  transform-style           preserve-3d
+  -webkit-transform-style   preserve-3d
+  -moz-transform-style      preserve-3d
+  -o-transform-style        preserve-3d
+
+backface-visibility()
+  backface-visibility         arguments
+  -webkit-backface-visibility arguments
+  -moz-backface-visibility    arguments
+  -o-backface-visibility      arguments
+
+backface-hidden()
+  backface-visibility         hidden
+  -webkit-backface-visibility hidden
+  -moz-backface-visibility    hidden
+  -o-backface-visibility      hidden
+
+transform-translate-3d()
+  -webkit-transform          translate3d( arguments )
+  -moz-transform             translate3d( arguments )
+  -o-transform               translate3d( arguments )
+  -ms-transform              translate3d( arguments )
+
+
+column-count()
+  column-count                arguments
+  -webkit-column-count        arguments
+  -moz-column-count           arguments
+  -ms-column-count            arguments
+  -o-column-count             arguments
+
+
+join-args()
+  str = ""
+  for arg, i in arguments
+    str += ", " if i
+    str += arg
+  unquote(str)
+
+
+radial-gradient()
+  args = join-args(arguments)
+  background-image  -moz-radial-gradient( args )
+  background-image  -webkit-radial-gradient( args )
+  background-image  -o-radial-gradient( args )
+  background-image  -ms-radial-gradient( args )
+  background-image  unquote('radial-gradient(%s)' % args )
+
+// via http://css-tricks.com/examples/GradientBorder/
+// set border-width, border-left-width, etc before usage
+border-gradient(from, start, end) 
+  -webkit-border-image   -webkit-linear-gradient(from, start, end) 1 100%
+  -o-border-image        -o-linear-gradient(from, start, end) 1 100%
+  -moz-border-image      -moz-linear-gradient(from, start, end) 1 100%
+
+
+
+
+
+@keyframes disapear
+ 0%
+   opacity              0
+ 1%
+   opacity              1
+ 100%
+   opacity              0
+
+// keyframes
+@keyframes flip-page
+  0%
+     transform          rotate3d(0,1,0, 0deg)
+  50%
+     transform          rotate3d(0,1,0, -180deg)
+  60%
+     transform          rotate3d(0,1,0, -155deg)
+  99%
+     transform          rotate3d(0,1,0, -180deg)
+  100%
+     opacity            0
+     display            none
+     z-index            1500
+
+
+@keyframes rotate
+  0%
+    transform           rotate(0deg)
+  25%
+    transform           rotate(90deg)
+  50%
+    transform           rotate(180deg)
+  75%
+    transform           rotate(270deg)
+  100%
+    transform           rotate(360deg)
+
+
+colorSmallNeonText2(clr, opacity, clr2=clr)
+  color                rgba(clr, 1)
+  text-shadow          0 0 10px rgba(clr2, opacity), 0 0 20px rgba(clr2, opacity)
+
+colorNeonText(clr, opacity, clr2=clr)
+  color                rgba(clr, 1)
+  text-shadow          0 0 10px rgba(clr2, opacity), 0 0 20px rgba(clr2, opacity), 0 0 20px rgba(clr2, opacity), 0 0 40px rgba(clr2, opacity), 0 0 40px rgba(clr2, opacity)
+
+colorNeonText2(clr, opacity, clr2=clr)
+  color                rgba(clr, 1)
+  text-shadow          0 0 1em rgba(clr2, opacity), 0 0 2em rgba(clr2, opacity), 0 0 2em rgba(clr2, opacity)
+
+
+
+colorBigNeonText(clr, opacity, clr2=clr)
+  color                rgba(clr, 1)
+  text-shadow          0 0 10px rgba(clr2, opacity), 0 0 20px rgba(clr2, opacity), 0 0 30px rgba(clr2, opacity), 0 0 40px rgba(clr2, opacity), 0 0 50px rgba(clr2, opacity)
+
+
+
+colorSmallNeonText(clr, opacity, clr2=clr)
+  color                rgba(clr, 1)
+  text-shadow          0 0 10px rgba(clr2, opacity), 0 0 20px rgba(clr2, opacity)
+
+neonBorderSmall(clr, size, opacity, bstyle=solid)
+  border               size bstyle rgba(clr, 1)
+  box-shadow           0 0 10px rgba(clr, opacity), 0 0 20px rgba(clr, opacity)
+
+neonBorderBig(clr, size, opacity, bstyle=solid)
+  border               size bstyle rgba(clr, 1)
+  box-shadow           0 0 10px rgba(clr, opacity), 0 0 20px rgba(clr, opacity), 0 0 40px rgba(clr, opacity), 0 0 50px rgba(clr, opacity), 0 0 60px rgba(clr, opacity)
+
+
+emNeonText(clr, opacity, clr2=clr)
+  color                rgba(clr, 1)
+  text-shadow          0 0 0.7em rgba(clr2, opacity), 0 0 1.4em rgba(clr2, opacity), 0 0 1.4em rgba(clr2, opacity), 0 0 2.8em rgba(clr2, opacity), 0 0 2.8em rgba(clr2, opacity)
+
