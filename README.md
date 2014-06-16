@@ -4,6 +4,10 @@
 
 ## #Android, #iOs, #Linux, #MacOSX, #windows
 
+[Apache Ripple for Chrome](https://chrome.google.com/webstore/detail/ripple-emulator-beta/geelfhphabnejjhdalkjhgipohgpdnoc)
+
+[Размеры экранов](http://habrahabr.ru/post/169141/)
+
 # Иконки-Шрифты 
 
 ![printer] (alphabet/printer.png)
@@ -17,18 +21,18 @@
 
 # Концепты приложений
 
+
 # Полезные ссылки
-
-[Ui/Ux](http://www.kasper.by/help/chto-takoe-ux-i-ui-dizain/)
-
-[Грань между UI и UX](http://habrahabr.ru/post/190840/)
 
 [Behance](https://www.behance.net/)
 
 [Dribbble](https://dribbble.com/)
 
+[Ui/Ux](http://www.kasper.by/help/chto-takoe-ux-i-ui-dizain/)
+
+[Грань между UI и UX](http://habrahabr.ru/post/190840/)
+
 [UX – это не UI](http://www.cmsmagazine.ru/library/items/usability/ux-is-not-ui/)
 
 [UI vs UX: what’s the difference?](http://www.webdesignerdepot.com/2012/06/ui-vs-ux-whats-the-difference/)
 
-[Размеры экранов](http://habrahabr.ru/post/169141/)
