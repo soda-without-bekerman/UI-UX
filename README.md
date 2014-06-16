@@ -10,6 +10,8 @@
 
 # Иконки-Шрифты 
 
+[Как создать ttf](http://macnoob.ru/freewrite/kak-sozdat-ttf-shrift-iz-izobrageniy-fontographer/)
+
 ![printer] (alphabet/printer.png)
 
 
