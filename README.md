@@ -11,6 +11,7 @@
 # Иконки-Шрифты 
 
 [создание шрифта: видео](http://www.youtube.com/watch?v=_KX-e6sijGE)
+
 [создание шрифта: пост](http://www.intridea.com/blog/2012/4/24/symbol-font)
 
 [Как создать ttf](http://macnoob.ru/freewrite/kak-sozdat-ttf-shrift-iz-izobrageniy-fontographer/)
