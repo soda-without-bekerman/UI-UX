@@ -1,7 +1,4 @@
 ![](https://cloud.githubusercontent.com/assets/147170/2811105/08f66492-ce06-11e3-8d00-49fda38c242f.png)
-
-
-![](sodabart.png)
 # Устройства 
 
 ## #Android, #iOs, #Linux, #MacOSX, #windows
@@ -50,3 +47,13 @@
 
 [UI vs UX: what’s the difference?](http://www.webdesignerdepot.com/2012/06/ui-vs-ux-whats-the-difference/)
 
+
+
+
+
+
+
+
+
+
+![](sodabart.png)
