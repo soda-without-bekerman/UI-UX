@@ -14,6 +14,8 @@
 
 [создание шрифта: пост](http://www.intridea.com/blog/2012/4/24/symbol-font)
 
+[Создание символьного шрифта в Inkscape](http://ninniah.ru/sozdanie-simvolnogo-shrifta-v-inkscape.html)
+
 [Как создать ttf](http://macnoob.ru/freewrite/kak-sozdat-ttf-shrift-iz-izobrageniy-fontographer/)
 
 ![printer] (alphabet/printer.png)
