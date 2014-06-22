@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="Новый документ 1">
+   sodipodi:docname="sodabart.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -87,21 +87,21 @@
            height="1131.4286"
            x="114.28571"
            y="166.6479" /></flowRegion><flowPara
-         id="flowPara3003"></flowPara></flowRoot>    <g
-       id="g3079">
-      <g
-         id="g3045">
-        <text
-           xml:space="preserve"
-           style="font-size:859.56628418px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Simpsons Mmmm...Font';-inkscape-font-specification:'Simpsons Mmmm...Font Bold'"
-           x="86.16523"
+         id="flowPara3003" /></flowRoot>    <g
+       id="g3059">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3005"
+         y="1064.2279"
+         x="86.16523"
+         style="font-size:859.56628418px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:'Simpsons Mmmm...Font';-inkscape-font-specification:'Simpsons Mmmm...Font Bold'"
+         xml:space="preserve"><tspan
+           id="tspan3013"
            y="1064.2279"
-           id="text3005"
-           sodipodi:linespacing="125%"><tspan
-             sodipodi:role="line"
-             x="86.16523"
-             y="1064.2279"
-             id="tspan3013">1</tspan></text>
+           x="86.16523"
+           sodipodi:role="line">1</tspan></text>
+      <g
+         id="g3043">
         <g
            id="g3033">
           <rect
@@ -126,14 +126,11 @@
              id="rect3031"
              style="fill:#000000" />
         </g>
-      </g>
-      <g
-         id="g3069">
         <flowRoot
            xml:space="preserve"
            id="flowRoot3053"
            style="font-size:144px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Soft Sugar plain;-inkscape-font-specification:Soft Sugar plain Bold"
-           transform="matrix(1.461836,0,0,1.461836,294.96633,-73.479336)"><flowRegion
+           transform="matrix(1.461836,0,0,1.461836,181.82925,203.30246)"><flowRegion
              id="flowRegion3055"><rect
                id="rect3057"
                width="1256.6298"
@@ -145,7 +142,7 @@
            xml:space="preserve"
            id="flowRoot3061"
            style="font-size:144px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Soft Sugar plain;-inkscape-font-specification:Soft Sugar plain Bold"
-           transform="translate(-113.13709,0)"><flowRegion
+           transform="translate(-76.730984,274.76149)"><flowRegion
              id="flowRegion3063"><rect
                id="rect3065"
                width="1208.1426"
@@ -153,7 +150,18 @@
                x="353.55341"
                y="353.33661"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;font-family:Soft Sugar plain;-inkscape-font-specification:Soft Sugar plain Bold" /></flowRegion><flowPara
-             id="flowPara3067">https://twitter.com/sodaup</flowPara></flowRoot>      </g>
+             id="flowPara3067">twitter.com/sodaup</flowPara></flowRoot>        <text
+           xml:space="preserve"
+           style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Soft Sugar plain;-inkscape-font-specification:Soft Sugar plain"
+           x="389.08298"
+           y="177.38429"
+           id="text3039"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3041"
+             x="389.08298"
+             y="177.38429">github.com/sodabot</tspan></text>
+      </g>
     </g>
   </g>
 </svg>
