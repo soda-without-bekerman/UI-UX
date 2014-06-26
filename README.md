@@ -19,6 +19,8 @@
 
 ![printer] (alphabet/printer.png)
 
+![api] (alphabet/api.png)
+
 
 # [Стили](stylus)
 ## #css, #stylus
