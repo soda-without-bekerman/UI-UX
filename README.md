@@ -28,6 +28,8 @@
 # Изображения 
 ## #splashscreen, #icon, #favicon
 
+![criam] (plane.png)
+
 # Концепты приложений
 
 
