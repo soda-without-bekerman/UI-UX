@@ -1,4 +1,4 @@
-![photo](color/1.png)
+![photo](color/1.gif)
 
 ![photo](soda-logo_black.png)
 
