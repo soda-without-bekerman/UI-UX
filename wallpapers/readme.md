@@ -1,15 +1,15 @@
 ![photo](color/1.gif)
 
-![photo](soda-logo_black.png)
+![photo](pc/soda-logo_black.png)
 
-![photo](soda-logo_peach.png)
+![photo](pc/soda-logo_peach.png)
 
-![photo](soda-logo_white.png)
+![photo](pc/soda-logo_white.png)
 
-![photo](cham.png)
+![photo](pc/cham.png)
 
-![photo](dove.png)
+![photo](pc/dove.png)
 
-![photo](iphone5/soda1.png)
+![photo](mobil/soda1.png)
 
-![photo](iphone5/soda2.png)
+![photo](mobil/soda2.png)
