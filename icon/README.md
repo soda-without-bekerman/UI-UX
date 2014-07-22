@@ -2,4 +2,4 @@
 ![](mentor.png)
 
 Ученик
-![](ychenik.png)
+![](ychenik..png)
