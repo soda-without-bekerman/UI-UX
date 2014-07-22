@@ -1,5 +1,7 @@
-Ментор
+#Ментор
+
 ![](mentor.png)
 
-Ученик
-![](ychenik.png)
+#Ученик
+
+![](ychenik..png)
