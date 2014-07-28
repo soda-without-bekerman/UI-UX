@@ -17,10 +17,6 @@
 
 [Как создать ttf](http://macnoob.ru/freewrite/kak-sozdat-ttf-shrift-iz-izobrageniy-fontographer/)
 
-![printer] (Pictures/alphabet/printer.png)
-
-![api] (Pictures/alphabet/api.png)
-
 
 # [Стили](stylus)
 ## #css, #stylus
