@@ -1,4 +1,4 @@
-![](soda-logo2.png)
+![](soda_logo2.png)
 # Устройства 
 
 ## #Android, #iOs, #Linux, #MacOSX, #windows
@@ -16,6 +16,10 @@
 [Создание символьного шрифта в Inkscape](http://ninniah.ru/sozdanie-simvolnogo-shrifta-v-inkscape.html)
 
 [Как создать ttf](http://macnoob.ru/freewrite/kak-sozdat-ttf-shrift-iz-izobrageniy-fontographer/)
+
+![printer] (Pictures/alphabet/printer.png)
+
+![api] (Pictures/alphabet/api.png)
 
 
 # [Стили](stylus)
