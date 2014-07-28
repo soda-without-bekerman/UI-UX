@@ -1,4 +1,4 @@
-![](soda-logo.png)
+![](soda-logo2.png)
 # Устройства 
 
 ## #Android, #iOs, #Linux, #MacOSX, #windows
