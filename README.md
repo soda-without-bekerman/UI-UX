@@ -17,9 +17,7 @@
 
 [Как создать ttf](http://macnoob.ru/freewrite/kak-sozdat-ttf-shrift-iz-izobrageniy-fontographer/)
 
-![printer] (Pictures/alphabet/printer.png)
 
-![api] (Pictures/alphabet/api.png)
 
 
 # [Стили](stylus)
@@ -57,6 +55,9 @@
 
 
 
+
+# Есть свежие Идеи, стремные Проблемы и смелые Решения? 
+### Ок. Не стесняемся! дополняем / улучшаем / размещаем в [`issues`](https://github.com/soda-io/UI-UX/issues/new)
 
 
 
