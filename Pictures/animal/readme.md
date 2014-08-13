@@ -13,3 +13,12 @@
 # Овечка
 
 ![photo](sheep.png)
+
+# Торик
+
+![photo](torik.png)
+
+# Пушик
+
+![photo](push.png)
+
