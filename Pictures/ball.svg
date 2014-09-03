@@ -14,9 +14,12 @@
    sodipodi:version="0.32pre"
    width="210mm"
    height="210mm"
-   sodipodi:docname="orav.svg"
+   sodipodi:docname="ball.svg"
    version="1.1"
-   inkscape:version="0.48.4 r9939">
+   inkscape:version="0.48.4 r9939"
+   inkscape:export-filename="C:\git\UI-UX\Pictures\ball.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <metadata
      id="metadata22">
     <rdf:RDF>
@@ -56,15 +59,15 @@
     <linearGradient
        id="linearGradient477">
       <stop
-         style="stop-color:#debadc;stop-opacity:1;"
+         style="stop-color:#daddee;stop-opacity:1;"
          offset="0"
          id="stop478" />
       <stop
          id="stop3815"
          offset="0.5"
-         style="stop-color:#a971ab;stop-opacity:1;" />
+         style="stop-color:#9f9fc0;stop-opacity:1;" />
       <stop
-         style="stop-color:#66416a;stop-opacity:1;"
+         style="stop-color:#7e7eac;stop-opacity:1;"
          offset="1"
          id="stop479" />
     </linearGradient>
@@ -103,7 +106,7 @@
      id="base"
      showgrid="false"
      inkscape:zoom="0.31716402"
-     inkscape:cx="372.04724"
+     inkscape:cx="-168.68244"
      inkscape:cy="372.04724"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
@@ -113,7 +116,7 @@
      inkscape:current-layer="svg472" />
   <path
      sodipodi:type="arc"
-     style="fill:url(#radialGradient484);fill-opacity:1;fill-rule:evenodd;stroke:#8d6c6c;stroke-opacity:1;stroke-width:5;stroke-linejoin:miter;stroke-linecap:butt;stroke-dasharray:none"
+     style="fill:url(#radialGradient484);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-opacity:1;stroke-width:5;stroke-linejoin:miter;stroke-linecap:butt;stroke-dasharray:none"
      id="path476"
      d="M 707.055786 362.613220 A 335.440399 335.440430 0 1 0 36.174988,362.613220 A 335.44 335.44 0 1 0 707.056 362.613 L 371.615387 362.613220 z"
      sodipodi:cx="371.615387"
