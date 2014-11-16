@@ -14,7 +14,7 @@
    preserveAspectRatio="xMidYMid meet"
    id="svg2"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="hSykdlJRT9g.svg">
+   sodipodi:docname="SODAstore.svg">
   <defs
      id="defs26">
     <inkscape:path-effect
@@ -68,25 +68,24 @@ Created by potrace 1.11, written by Peter Selinger 2001-2013
     <dc:format>image/svg+xml</dc:format>
     <dc:type
        rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:title></dc:title>
+    <dc:title />
   </cc:Work>
 </rdf:RDF>
 </metadata>
   <g
-     id="g7183"
-     transform="translate(-2.4360142e-6,2.9649414e-8)">
+     id="g3221">
     <rect
-       y="-2.9649353e-008"
-       x="2.5267028e-009"
+       y="6.0805175e-014"
+       x="-2.4334875e-006"
        height="749.84546"
        width="999.79022"
        id="rect3982"
        style="fill:#131f2d;fill-opacity:1;stroke:none" />
     <g
-       id="g7163">
+       id="g3201">
       <g
          id="g4053"
-         transform="translate(-0.28089231,-1.0852696)">
+         transform="translate(-0.28089475,-1.0852696)">
         <g
            id="g4025">
           <path
@@ -152,15 +151,15 @@ Created by potrace 1.11, written by Peter Selinger 2001-2013
         </g>
       </g>
       <g
-         id="g7157">
+         id="g3195">
         <path
            id="path7155"
            d="m 322.475,520.40043 c -18.05593,0 -32.6,17.74763 -32.6,39.8186 l 0,23.3472 0,127.70678 0,39.84916 32.6,0 352.8,0 32.575,0 0,-39.84916 0,-127.70678 0,-23.3472 c 0,-22.07097 -14.51907,-39.8186 -32.575,-39.8186 l -352.8,0 z"
            style="fill:#50e1de;fill-opacity:0.44090911;stroke:none;filter:url(#filter4091)"
            inkscape:connector-curvature="0"
-           transform="matrix(1.1121022,0,0,0.85556089,-60.59723,74.080913)" />
+           transform="matrix(1.1121022,0,0,1.0481464,-60.597232,-26.140662)" />
         <g
-           transform="matrix(1,0,0,1.0119055,-0.28089231,-7.7538326)"
+           transform="matrix(1,0,0,1.0119055,-0.28089475,-7.7538326)"
            id="g4003">
           <path
              inkscape:connector-curvature="0"
@@ -177,7 +176,7 @@ Created by potrace 1.11, written by Peter Selinger 2001-2013
       </g>
     </g>
     <g
-       transform="translate(-0.28089231,-1.0852696)"
+       transform="translate(-0.28089475,-1.0852696)"
        id="g4349">
       <path
          style="fill:#f1f1d7;fill-opacity:1;stroke:none"
@@ -217,7 +216,7 @@ Created by potrace 1.11, written by Peter Selinger 2001-2013
    style="font-weight:bold;fill:#00ffff;-inkscape-font-specification:Sans Bold"
    id="flowSpan4140">*/</flowSpan></flowPara></flowRoot>    </g>
     <g
-       transform="translate(-0.28089231,-1.0852696)"
+       transform="translate(-0.28089475,-1.0852696)"
        id="g4369">
       <g
          id="g4181">
@@ -382,7 +381,7 @@ Created by potrace 1.11, written by Peter Selinger 2001-2013
              style="font-weight:bold;-inkscape-font-specification:Sans Bold">&amp;&amp;</flowPara></flowRoot>      </g>
     </g>
     <g
-       transform="translate(-0.28089231,-1.0852696)"
+       transform="translate(-0.28089475,-1.0852696)"
        style="fill:#f5f4e0;fill-opacity:1"
        id="g6923">
       <g
