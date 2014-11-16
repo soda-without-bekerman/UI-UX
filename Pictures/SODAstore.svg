@@ -14,7 +14,10 @@
    preserveAspectRatio="xMidYMid meet"
    id="svg2"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="SODAstore.svg">
+   sodipodi:docname="SODAstore.svg"
+   inkscape:export-filename="C:\git\UI-UX\Pictures\SODAstore.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs26">
     <inkscape:path-effect
@@ -68,7 +71,7 @@ Created by potrace 1.11, written by Peter Selinger 2001-2013
     <dc:format>image/svg+xml</dc:format>
     <dc:type
        rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:title />
+    <dc:title></dc:title>
   </cc:Work>
 </rdf:RDF>
 </metadata>
