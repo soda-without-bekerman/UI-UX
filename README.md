@@ -30,17 +30,15 @@
 
 ![criam] (plane.png)
 
-|  cow |   pig   |   push  |  sheep  |  torik  | wraithik|
-|-----|---------|---------|---------|---------|---------|
-|![cow](https://cloud.githubusercontent.com/assets/3838734/3906124/016e129e-22f0-11e4-9881-0cd580b6ef77.png)     |![pig](https://cloud.githubusercontent.com/assets/3838734/3906126/017abd1e-22f0-11e4-9fa8-72fb4ab64bbe.png)|![push](https://cloud.githubusercontent.com/assets/3838734/3906125/0177b312-22f0-11e4-8d3b-66c523e1a5c8.png)|![sheep](https://cloud.githubusercontent.com/assets/3838734/3906122/01628d84-22f0-11e4-94b9-29238cd6c677.png)|![torik](https://cloud.githubusercontent.com/assets/3838734/3906123/016c7a06-22f0-11e4-8c10-9331103b3072.png)|![wraithik](https://cloud.githubusercontent.com/assets/3838734/3906121/015f4c3c-22f0-11e4-9d87-2071362645a6.png)| 
 
-  ![politolog](https://cloud.githubusercontent.com/assets/3838734/4137877/b76bfc86-338b-11e4-9bc7-8c2394a5e65e.png)
 
 
 # Концепты приложений
 
 
 # Полезные ссылки
+
+[Material design](https://www.google.com/design/spec/material-design/introduction.html#introduction-goals)
 
 [Behance](https://www.behance.net/)
 
@@ -57,7 +55,7 @@
 [UI vs UX: what’s the difference?](http://www.webdesignerdepot.com/2012/06/ui-vs-ux-whats-the-difference/)
 
 
-
+![sodastore](https://cloud.githubusercontent.com/assets/3838734/5127612/57fd135a-70e6-11e4-8298-8ede678160df.png)
 
 
 
