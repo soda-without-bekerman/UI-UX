@@ -14,8 +14,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="soda-logo_rezka.svg"
-   inkscape:export-filename="C:\git\UI-UX\soda_logo.png"
+   sodipodi:docname="soda-logo_1920.svg"
+   inkscape:export-filename="C:\git\UI-UX\soda1980x1080.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <sodipodi:namedview
@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497474"
-     inkscape:cx="1348.9884"
+     inkscape:cx="995.46071"
      inkscape:cy="253.37598"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -485,7 +485,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
