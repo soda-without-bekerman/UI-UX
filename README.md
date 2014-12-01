@@ -9,6 +9,8 @@
 
 # Иконки-Шрифты 
 
+[Нужны иконки?](http://www.flaticon.com/)
+
 [создание шрифта: видео](http://www.youtube.com/watch?v=_KX-e6sijGE)
 
 [создание шрифта: пост](http://www.intridea.com/blog/2012/4/24/symbol-font)
