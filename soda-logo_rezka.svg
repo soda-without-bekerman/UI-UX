@@ -485,7 +485,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -495,7 +495,7 @@
      id="layer1"
      transform="translate(-168.10512,102.72838)">
     <g
-       id="g8977">
+       id="g10937">
       <rect
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
@@ -508,7 +508,7 @@
          id="rect3083-9-8-8-8-5"
          style="fill:#0f0303;fill-opacity:1" />
       <g
-         id="g7021">
+         id="g8981">
         <g
            id="g33391"
            transform="translate(8,14)"
@@ -16640,7 +16640,7 @@
           </g>
         </g>
         <g
-           id="g7009">
+           id="g8969">
           <text
              inkscape:export-ydpi="90"
              inkscape:export-xdpi="90"
@@ -16705,7 +16705,7 @@
              xml:space="preserve"
              style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;font-family:Furore;-inkscape-font-specification:Furore Bold"
              x="1141.8517"
-             y="309.06891"
+             y="281.06891"
              id="text7005"
              sodipodi:linespacing="125%"
              inkscape:export-filename="C:\git\UI-UX\soda_logo_rezka.png"
@@ -16714,7 +16714,7 @@
                sodipodi:role="line"
                id="tspan7007"
                x="1141.8517"
-               y="309.06891"
+               y="281.06891"
                style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Furore;-inkscape-font-specification:Furore Bold"> accelerator</tspan></text>
         </g>
       </g>
