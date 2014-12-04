@@ -19,6 +19,17 @@
   <defs
      id="defs4">
     <linearGradient
+       id="linearGradient5643">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.39790577;"
+         offset="0"
+         id="stop5645" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop5647" />
+    </linearGradient>
+    <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient3902"
        id="linearGradient3916"
@@ -111,24 +122,6 @@
          offset="1"
          id="stop3906-4" />
     </linearGradient>
-    <filter
-       inkscape:collect="always"
-       id="filter4103"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="4.5011252"
-         id="feGaussianBlur4105" />
-    </filter>
-    <filter
-       inkscape:collect="always"
-       id="filter4147"
-       color-interpolation-filters="sRGB">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="23.186026"
-         id="feGaussianBlur4149" />
-    </filter>
     <filter
        inkscape:collect="always"
        id="filter4575"
@@ -246,6 +239,43 @@
          stdDeviation="2.8412349"
          id="feGaussianBlur4625" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3799"
+       id="linearGradient4859"
+       gradientUnits="userSpaceOnUse"
+       x1="-287.93887"
+       y1="518.23315"
+       x2="-134.72011"
+       y2="518.23315" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3799"
+       id="linearGradient4863"
+       gradientUnits="userSpaceOnUse"
+       x1="-287.93887"
+       y1="518.23315"
+       x2="-134.72011"
+       y2="518.23315"
+       gradientTransform="matrix(3.6631996,0,0,3.6631996,-256.13367,369.12447)" />
+    <filter
+       inkscape:collect="always"
+       id="filter5637">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="10.321071"
+         id="feGaussianBlur5639" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5643"
+       id="linearGradient5649"
+       x1="-1484.2012"
+       y1="2182.4225"
+       x2="-749.67371"
+       y2="2182.4225"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.58768439,0,0,1,-611.95932,0)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -254,9 +284,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.0875"
-     inkscape:cx="-197.38901"
-     inkscape:cy="-1070.9941"
+     inkscape:zoom="0.35"
+     inkscape:cx="-1775.0069"
+     inkscape:cy="-1756.7084"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -409,7 +439,7 @@
     </g>
     <g
        id="g3839"
-       transform="matrix(3.6631996,0,0,3.6631996,-1184.7051,163.41019)">
+       transform="matrix(3.6631996,0,0,3.6631996,-1104.7051,374.83876)">
       <rect
          style="fill:#9c9cf5;fill-opacity:1;fill-rule:evenodd;stroke:none"
          id="rect3022"
@@ -482,29 +512,24 @@
          inkscape:connector-curvature="0"
          style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;font-family:Furore;-inkscape-font-specification:Furore" />
     </g>
-    <g
-       id="g8177"
-       transform="matrix(3.6631996,0,0,3.6631996,3417.518,614.11924)"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <rect
-         style="fill:#263238;fill-opacity:1;fill-rule:evenodd;stroke:none"
-         id="rect4681"
-         width="200.51527"
-         height="200.51527"
-         x="-1483.7529"
-         y="697.50043" />
-      <path
-         id="path4683"
-         d="m -1312.6706,873.42339 -84.4431,0 -11.891,-11.7373 0,-23.81477 24.1266,0 0,11.73737 60.1442,0 0,-23.64469 -72.3798,0 -11.891,-8.50526 0,-51.03166 11.891,-12.0774 84.4431,0 11.8909,12.0774 0,23.64465 -23.9542,0 0,-11.90737 -60.1442,0 0,23.81486 72.2075,0 11.8909,11.90728 0,47.79959 -11.8909,11.7372"
-         inkscape:connector-curvature="0"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter4623);font-family:Furore;-inkscape-font-specification:Furore" />
-      <path
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;font-family:Furore;-inkscape-font-specification:Furore"
-         inkscape:connector-curvature="0"
-         d="m -1344.6706,855.42339 -84.4431,0 -11.891,-11.7372 0,-23.81482 24.1266,0 0,11.73735 60.1442,0 0,-23.64472 -72.3798,0 -11.891,-8.50526 0,-51.03166 11.891,-12.0774 84.4431,0 11.8909,12.0774 0,23.64465 -23.9542,0 0,-11.90737 -60.1442,0 0,23.81486 72.2075,0 11.8909,11.90728 0,47.79969 -11.8909,11.7371"
-         id="path4685" />
-    </g>
+    <rect
+       y="3169.2026"
+       x="-2017.7651"
+       height="734.52747"
+       width="734.52747"
+       id="rect4681"
+       style="fill:#263238;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+    <path
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter4623);font-family:Furore;-inkscape-font-specification:Furore"
+       inkscape:connector-curvature="0"
+       d="m -1312.6706,873.42339 -84.4431,0 -11.891,-11.7373 0,-23.81477 24.1266,0 0,11.73737 60.1442,0 0,-23.64469 -72.3798,0 -11.891,-8.50526 0,-51.03166 11.891,-12.0774 84.4431,0 11.8909,12.0774 0,23.64465 -23.9542,0 0,-11.90737 -60.1442,0 0,23.81486 72.2075,0 11.8909,11.90728 0,47.79959 -11.8909,11.7372"
+       id="path4683"
+       transform="matrix(3.6631996,0,0,3.6631996,3393.518,598.11924)" />
+    <path
+       id="path4685"
+       d="m -1508.2788,3747.7059 -309.3319,0 -43.5591,-42.9957 0,-87.2385 88.3805,0 0,42.9963 220.3202,0 0,-86.6154 -265.1416,0 -43.5591,-31.1564 0,-186.9392 43.5591,-44.2419 309.3319,0 43.5587,44.2419 0,86.6151 -87.749,0 0,-43.6191 -220.3202,0 0,87.2386 264.5105,0 43.5587,43.6187 0,175.0999 -43.5587,42.9953"
+       inkscape:connector-curvature="0"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;font-family:Furore;-inkscape-font-specification:Furore" />
     <g
        id="g19132"
        inkscape:export-filename="C:\git\UI-UX\Pictures\SODA\shadow\g19132.png"
@@ -9250,6 +9275,41 @@
              d="m 572.64943,846.25268 c -0.64,0 -1.279,-0.244 -1.768,-0.732 -0.977,-0.976 -0.977,-2.559 0,-3.535 l 8.264,-8.263 -8.264,-8.263 c -0.977,-0.976 -0.977,-2.559 0,-3.535 0.977,-0.977 2.559,-0.977 3.535,0 l 10.031,10.031 c 0.469,0.469 0.731,1.104 0.731,1.768 0,0.664 -0.264,1.298 -0.731,1.768 l -10.03,10.031 c -0.489,0.486 -1.129,0.73 -1.768,0.73 z m 31.582,-2.5 c 0,-1.381 -1.119,-2.5 -2.5,-2.5 h -14.637 c -1.381,0 -2.5,1.119 -2.5,2.5 0,1.381 1.119,2.5 2.5,2.5 h 14.637 c 1.381,0 2.5,-1.119 2.5,-2.5 z"
              inkscape:connector-curvature="0" />
         </g>
+      </g>
+    </g>
+    <g
+       id="g5659"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g5655">
+        <rect
+           style="fill:#9c9cf5;fill-opacity:1;fill-rule:evenodd;stroke:none"
+           id="rect4852"
+           width="734.52747"
+           height="734.52747"
+           x="-1484.2012"
+           y="1815.1588" />
+        <rect
+           y="1815.1588"
+           x="-1484.2012"
+           height="734.52747"
+           width="431.67032"
+           id="rect5641"
+           style="opacity:0.98000004;fill:url(#linearGradient5649);fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      </g>
+      <g
+         id="g5651">
+        <path
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#8080c9;fill-opacity:1;stroke:none;filter:url(#filter5637);font-family:Furore;-inkscape-font-specification:Furore"
+           inkscape:connector-curvature="0"
+           d="m -874.97089,2457.7977 -306.74801,0 -43.1953,-42.6368 0,-86.5098 87.6425,0 0,42.6371 218.4797,0 0,-85.8919 -262.9269,0 -43.1953,-30.8962 0,-185.3776 43.1953,-43.8723 306.74801,0 43.19487,43.8723 0,85.8916 -87.01598,0 0,-43.2547 -218.4797,0 0,86.5098 262.30081,0 43.19487,43.2544 0,173.6373 -43.19487,42.6365"
+           id="path4867" />
+        <path
+           id="path4857"
+           d="m -960.97089,2409.7977 -306.74801,0 -43.1953,-42.6368 0,-86.5098 87.6425,0 0,42.6371 218.4797,0 0,-85.8919 -262.9269,0 -43.1953,-30.8962 0,-185.3776 43.1953,-43.8723 306.74801,0 43.19487,43.8723 0,85.8916 -87.01598,0 0,-43.2547 -218.4797,0 0,86.5098 262.30081,0 43.19487,43.2544 0,173.6373 -43.19487,42.6365"
+           inkscape:connector-curvature="0"
+           style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Furore;-inkscape-font-specification:Furore" />
       </g>
     </g>
   </g>
