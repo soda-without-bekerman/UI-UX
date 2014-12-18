@@ -27,7 +27,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="378.76457"
+     inkscape:cx="136.22694"
      inkscape:cy="371.50901"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -486,7 +486,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -495,17 +495,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-168.10512,92.743273)">
-    <rect
-       style="fill:#ffffff;fill-opacity:1"
-       id="rect3083-9-8-8-8-5"
-       width="998.56592"
-       height="499.98511"
-       x="169.33"
-       y="-92.728371"
-       ry="0"
-       inkscape:export-filename="C:\git\UI-UX\soda_logo_rezka.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
     <image
        width="266"
        height="266"
@@ -548,30 +537,6 @@
        width="253.89113" />
     <text
        xml:space="preserve"
-       style="font-size:23.84375px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
-       x="217.28825"
-       y="192.24797"
-       id="text3122"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3124"
-         x="217.28825"
-         y="192.24797"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ebrima;-inkscape-font-specification:Ebrima Bold">INTEL GALILEO</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text4131"
-       y="242.40332"
-       x="587.53595"
-       style="font-size:23.84375px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:MV Boli;-inkscape-font-specification:MV Boli"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ebrima;-inkscape-font-specification:Ebrima Bold"
-         y="242.40332"
-         x="587.53595"
-         id="tspan4133"
-         sodipodi:role="line">UNO</tspan></text>
-    <text
-       xml:space="preserve"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:MV Boli;-inkscape-font-specification:MV Boli"
        x="90.509666"
        y="43.209019"
@@ -582,19 +547,6 @@
          id="tspan3134"
          x="90.509666"
          y="43.209019" /></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text3136"
-       y="-39.198841"
-       x="253.68309"
-       style="font-size:24.79157257px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ebrima;-inkscape-font-specification:Ebrima"
-       xml:space="preserve"
-       transform="scale(1.0397514,0.96176837)"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ebrima;-inkscape-font-specification:Ebrima Bold"
-         y="-39.198841"
-         x="253.68309"
-         id="tspan3138"
-         sodipodi:role="line">PHANTOM 2</tspan></text>
     <image
        y="-19.929131"
        x="882.09619"
@@ -623,43 +575,91 @@
            y="175.3257" />
       </g>
     </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:0.42727274"
+       id="rect3083-9-8-8-8-5"
+       width="998.56592"
+       height="499.98511"
+       x="169.33"
+       y="-92.728371"
+       ry="0"
+       inkscape:export-filename="C:\git\UI-UX\soda_logo_rezka.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3136"
+       y="40.204407"
+       x="250.9628"
+       style="font-size:24.79157257px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ebrima;-inkscape-font-specification:Ebrima"
+       xml:space="preserve"
+       transform="scale(1.0397514,0.96176837)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ebrima;-inkscape-font-specification:Ebrima Bold"
+         y="40.204407"
+         x="250.9628"
+         id="tspan3138"
+         sodipodi:role="line">PHANTOM 2</tspan></text>
     <text
        transform="scale(1.0397514,0.96176837)"
        xml:space="preserve"
        style="font-size:24.79157257px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ebrima;-inkscape-font-specification:Ebrima"
-       x="550.19489"
-       y="-56.844006"
+       x="580.1181"
+       y="84.317322"
        id="text3126"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3128"
-         x="550.19489"
-         y="-56.844006"
+         x="580.1181"
+         y="84.317322"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ebrima;-inkscape-font-specification:Ebrima Bold">RASPBERRY PI</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:23.84375px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:MV Boli;-inkscape-font-specification:MV Boli"
-       x="886.93054"
-       y="202.43179"
-       id="text3114"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3116"
-         x="886.93054"
-         y="202.43179"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ebrima;-inkscape-font-specification:Ebrima Bold">BLUNO</tspan></text>
     <text
        transform="scale(1.0397514,0.96176837)"
        xml:space="preserve"
        style="font-size:24.79157257px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ebrima;-inkscape-font-specification:Ebrima"
-       x="948.71765"
-       y="-15.671952"
+       x="951.43793"
+       y="57.849575"
        id="text3140"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3142"
-         x="948.71765"
-         y="-15.671952"
+         x="951.43793"
+         y="57.849575"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ebrima;-inkscape-font-specification:Ebrima Bold">HUBSAN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:23.84375px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Segoe UI;-inkscape-font-specification:Segoe UI"
+       x="268.19995"
+       y="295.48557"
+       id="text3122"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3124"
+         x="268.19995"
+         y="295.48557"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ebrima;-inkscape-font-specification:Ebrima Bold">INTEL GALILEO</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4131"
+       y="310.28558"
+       x="658.24664"
+       style="font-size:23.84375px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:MV Boli;-inkscape-font-specification:MV Boli"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ebrima;-inkscape-font-specification:Ebrima Bold"
+         y="310.28558"
+         x="658.24664"
+         id="tspan4133"
+         sodipodi:role="line">UNO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:23.84375px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:MV Boli;-inkscape-font-specification:MV Boli"
+       x="959.05542"
+       y="301.42676"
+       id="text3114"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3116"
+         x="959.05542"
+         y="301.42676"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Ebrima;-inkscape-font-specification:Ebrima Bold">BLUNO</tspan></text>
   </g>
 </svg>
