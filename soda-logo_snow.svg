@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.5 r10040"
    sodipodi:docname="soda-logo_snow.svg"
-   inkscape:export-filename="C:\git\UI-UX\soda_logo_rezka.png"
+   inkscape:export-filename="C:\Users\Максим\Documents\GitHub\UI-UX\snow.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <sodipodi:namedview
@@ -1403,7 +1403,7 @@
        inkscape:export-ydpi="90" />
     <path
        transform="matrix(1.0629397,0,0,1.0079736,-1873.694,2796.6583)"
-       d="m 1948.1422,-2576.533 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
+       d="m 1948.1422,-2576.533 c 0,5.5229 -4.4771,10 -10,10 -5.5228,0 -10,-4.4771 -10,-10 0,-5.5228 4.4772,-10 10,-10 5.5229,0 10,4.4772 10,10 z"
        sodipodi:ry="10"
        sodipodi:rx="10"
        sodipodi:cy="-2576.533"
@@ -1429,7 +1429,7 @@
        sodipodi:cy="-2576.533"
        sodipodi:rx="10"
        sodipodi:ry="10"
-       d="m 1948.1422,-2576.533 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
+       d="m 1948.1422,-2576.533 c 0,5.5229 -4.4771,10 -10,10 -5.5228,0 -10,-4.4771 -10,-10 0,-5.5228 4.4772,-10 10,-10 5.5229,0 10,4.4772 10,10 z"
        transform="matrix(1.0629397,0,0,1.0079736,-1873.694,2592.6583)" />
     <path
        style="fill:url(#radialGradient3005);fill-opacity:1;stroke:#000000;stroke-width:0.19349144;stroke-opacity:1"
@@ -15996,7 +15996,7 @@
        sodipodi:cy="193.46716"
        sodipodi:rx="10"
        sodipodi:ry="10"
-       d="m 2073.1421,193.46716 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
+       d="m 2073.1421,193.46716 c 0,5.52285 -4.4772,10 -10,10 -5.5229,0 -10,-4.47715 -10,-10 0,-5.52284 4.4771,-10 10,-10 5.5228,0 10,4.47716 10,10 z"
        transform="matrix(0.72180596,0,0,0.68448035,-391.82344,-48.212323)" />
     <g
        id="g5045"
@@ -17517,7 +17517,7 @@
     </g>
     <path
        transform="matrix(1.0629397,0,0,1.0079736,-519.181,2679.9858)"
-       d="m 1948.1422,-2576.533 a 10,10 0 1 1 -20,0 10,10 0 1 1 20,0 z"
+       d="m 1948.1422,-2576.533 c 0,5.5229 -4.4771,10 -10,10 -5.5228,0 -10,-4.4771 -10,-10 0,-5.5228 4.4772,-10 10,-10 5.5229,0 10,4.4772 10,10 z"
        sodipodi:ry="10"
        sodipodi:rx="10"
        sodipodi:cy="-2576.533"
@@ -17526,20 +17526,20 @@
        style="fill:none;stroke:#0057e0;stroke-width:4.21053648;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.21053642, 4.21053642;stroke-dashoffset:0"
        sodipodi:type="arc" />
     <g
-       id="g5225">
+       id="g5153">
       <text
          inkscape:export-ydpi="90"
          inkscape:export-xdpi="90"
          inkscape:export-filename="C:\git\UI-UX\soda_logo_rezka.png"
          sodipodi:linespacing="125%"
          id="text8491"
-         y="281.54245"
-         x="293.1084"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;font-family:Furore;-inkscape-font-specification:Furore Bold"
+         y="281.55688"
+         x="295.20697"
+         style="font-size:38.02884674px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;font-family:Furore;-inkscape-font-specification:Furore Bold"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Furore;-inkscape-font-specification:Furore Bold"
-           y="281.54245"
-           x="293.1084"
+           y="281.55688"
+           x="295.20697"
            id="tspan8493"
            sodipodi:role="line">SCHOOL</tspan></text>
       <text
@@ -17548,13 +17548,13 @@
          inkscape:export-filename="C:\git\UI-UX\soda_logo_rezka.png"
          sodipodi:linespacing="125%"
          id="text8495"
-         y="280.84549"
-         x="508.54684"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;font-family:Furore;-inkscape-font-specification:Furore Bold"
+         y="280.89426"
+         x="512.02881"
+         style="font-size:38.02884674px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;font-family:Furore;-inkscape-font-specification:Furore Bold"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Furore;-inkscape-font-specification:Furore Bold"
-           y="280.84549"
-           x="508.54684"
+           y="280.89426"
+           x="512.02881"
            id="tspan8497"
            sodipodi:role="line">OPEN</tspan></text>
       <text
@@ -17564,12 +17564,12 @@
          sodipodi:linespacing="125%"
          id="text8503"
          y="281.83539"
-         x="855.41498"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;font-family:Furore;-inkscape-font-specification:Furore Bold"
+         x="861.80371"
+         style="font-size:38.02884674px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;font-family:Furore;-inkscape-font-specification:Furore Bold"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Furore;-inkscape-font-specification:Furore Bold"
            y="281.83539"
-           x="855.41498"
+           x="861.80371"
            id="tspan8505"
            sodipodi:role="line">aclrtr</tspan></text>
       <text
@@ -17577,15 +17577,15 @@
          inkscape:export-xdpi="90"
          inkscape:export-filename="C:\git\UI-UX\soda_logo_rezka.png"
          xml:space="preserve"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;font-family:Furore;-inkscape-font-specification:Furore Bold"
-         x="694.54688"
-         y="280.84549"
+         style="font-size:38.02884674px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;font-family:Furore;-inkscape-font-specification:Furore Bold"
+         x="698.86298"
+         y="280.89426"
          id="text35143"
          sodipodi:linespacing="125%"><tspan
            sodipodi:role="line"
            id="tspan35145"
-           x="694.54688"
-           y="280.84549"
+           x="698.86298"
+           y="280.89426"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Furore;-inkscape-font-specification:Furore Bold">DATA</tspan></text>
     </g>
     <g
