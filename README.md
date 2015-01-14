@@ -1,4 +1,5 @@
-![](soda_logo2.png)
+![g32331](https://cloud.githubusercontent.com/assets/3838734/5749291/b44b74f6-9c58-11e4-92d5-7351ecb3cf41.png)
+
 # Устройства 
 
 ## #Android, #iOs, #Linux, #MacOSX, #windows
